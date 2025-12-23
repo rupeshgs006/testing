@@ -5,3 +5,5 @@ joblib==1.3.2
 pydantic==2.6.4
 pytest
 httpx
+torch
+torchvision
